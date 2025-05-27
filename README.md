@@ -25,3 +25,4 @@ To launch an Apache2 Web Server manually and using a shell script on an Ubuntu E
   sudo systemctl start apache2
   sudo systemctl enable apache2
 
+Apache2 service verified via browser using Public IP
